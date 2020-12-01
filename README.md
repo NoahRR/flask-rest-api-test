@@ -25,4 +25,6 @@ will specify so
 - creates new person with corresponding data
 
 ## http://127.0.0.1:12345/database/showall
+
+### GET
 - returns all database data
