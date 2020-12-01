@@ -1,6 +1,6 @@
 # API USAGE
 
-## http://127.0.0.1:12345/database/<id>
+## http://127.0.0.1:12345/database/?id
 
 ### GET
 - takes input 'id' from url
